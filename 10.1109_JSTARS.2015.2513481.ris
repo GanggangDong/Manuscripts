@@ -1,0 +1,51 @@
+TY  - JOUR
+TI  - SAR Target Recognition Via Sparse Representation of Monogenic Signal on Grassmann Manifolds
+T2  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+SP  - 1308
+EP  - 1319
+AU  - G. Dong
+AU  - G. Kuang
+PY  - 2016
+KW  - Hilbert spaces
+KW  - image representation
+KW  - radar imaging
+KW  - synthetic aperture radar
+KW  - Euclidean space
+KW  - Grassmann distance metric
+KW  - Grassmann manifolds
+KW  - Riemannian manifolds
+KW  - SAR image
+KW  - SAR target recognition
+KW  - broad spectral information
+KW  - kernel-based sparse signal modeling
+KW  - maximal spatial localization
+KW  - monogenic components
+KW  - multiresolution monogenic signal
+KW  - nonlinear geometry structure
+KW  - reproducing kernel Hilbert space
+KW  - single feature descriptor
+KW  - sparse representation
+KW  - vector-valued analytic signal
+KW  - Hilbert space
+KW  - Manifolds
+KW  - Synthetic aperture radar
+KW  - Target recognition
+KW  - Training
+KW  - Yttrium
+KW  - Grassmann manifolds
+KW  - Hilbert space
+KW  - monogenic signal
+KW  - sparse representation
+KW  - target recognition
+DO  - 10.1109/JSTARS.2015.2513481
+JO  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+IS  - 3
+SN  - 1939-1404
+VO  - 9
+VL  - 9
+JA  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+Y1  - March 2016
+AB  - In this paper, classification via sparse representation of monogenic signal on Grassmann manifolds is presented for target recognition in SAR image. To capture the broad spectral information with maximal spatial localization of SAR image, a recently proposed vector-valued analytic signal, namely monogenic signal is exploited. Different from the conventional methods, where a single feature descriptor is generated using the monogenic signal in an Euclidean space, the multiple components of monogenic signal at various scale spaces are viewed as points on a special type of Riemannian manifolds, Grassmann manifolds. The similarity between a pair of patterns (points) is measured by Grassmann distance metric. To exploit the nonlinear geometry structure further, we embed the sets of monogenic components into an implicit reproducing kernel Hilbert space (RKHS), where the kernel-based sparse signal modeling can be learnt to reach the inference. Specifically, the sets of monogenic components resulting from the training samples are concatenated first to build a redundant dictionary. Then, the counterpart of the query is efficiently approximated by superposition of atoms of the dictionary. Notably, the representation coefficients of superposition are very parsimonious. The inference is drawn by evaluating which class of training patterns could recover the query as accurately as possible. The novelty of this paper comes from 1) the development of Grassmann manifolds formed by the multiresolution monogenic signal; 2) the definition of similarity between the sets of monogenic components on Grassmann manifolds for target recognition; 3) the generalization of sparse signal modeling on Grassmann manifold; and 4) multiple comparative experiments for performance assessment.
+ER  - 
+
+

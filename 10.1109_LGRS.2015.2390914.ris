@@ -1,0 +1,50 @@
+TY  - JOUR
+TI  - Target Recognition via Information Aggregation Through Dempster&#x2013;Shafer's Evidence Theory
+T2  - IEEE Geoscience and Remote Sensing Letters
+SP  - 1247
+EP  - 1251
+AU  - G. Dong
+AU  - G. Kuang
+PY  - 2015
+KW  - image classification
+KW  - image representation
+KW  - inference mechanisms
+KW  - object recognition
+KW  - radar imaging
+KW  - synthetic aperture radar
+KW  - DS theory
+KW  - Dempster-Shafer evidence theory
+KW  - SAR image
+KW  - information aggregation
+KW  - monogenic components
+KW  - monogenic signal
+KW  - multidimensional analytic signal
+KW  - probability mass
+KW  - query sample
+KW  - sparse representation-based classification
+KW  - target recognition
+KW  - training samples
+KW  - Accuracy
+KW  - Dictionaries
+KW  - Manifolds
+KW  - Remote sensing
+KW  - Synthetic aperture radar
+KW  - Target recognition
+KW  - Training
+KW  - Dempster&#8211;Shafer (DS) theory of evidence
+KW  - Dempster&#x2013;Shafer (DS) theory of evidence
+KW  - monogenic signal
+KW  - sparse representation
+KW  - synthetic aperture radar (SAR) target recognition
+DO  - 10.1109/LGRS.2015.2390914
+JO  - IEEE Geoscience and Remote Sensing Letters
+IS  - 6
+SN  - 1545-598X
+VO  - 12
+VL  - 12
+JA  - IEEE Geoscience and Remote Sensing Letters
+Y1  - June 2015
+AB  - In this letter, a novel classification via information aggregation through Dempster-Shafer's (DS) evidence theory has been presented to target recognition in a SAR image. Although the DS theory of evidence has been widely studied over the decades, less attention has been paid to its application for target recognition. To capture the characteristics of a SAR image, this letter exploits a new multidimensional analytic signal named monogenic signal. Since the components of the monogenic signal are of a high dimension, it is unrealistic to be directly used. To solve the problem, an intuitive idea is to derive a single feature by these components. However, this strategy usually results in some information loss. To boost the performance, this letter presents a classification framework via information aggregation. The monogenic components are individually fed into a recently developed algorithm, i.e., sparse representation-based classification, from which the residual with respect to each target class can be produced. Since the residual from a query sample reflects the distance to the manifold formed by the training samples of a certain class, it is reasonable to be used to define the probability mass. Then, the information provided by the monogenic signal can be aggregated via Dempster's rule; hence, the inference can be reached.
+ER  - 
+
+

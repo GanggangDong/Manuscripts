@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+
+
+TY  - JOUR
+T1  - Refined segmentation of ship target in SAR images based on GVF snake with elliptical constraint
+AU  - Zhang, Xiaoqiang
+AU  - Dong, Ganggang
+AU  - Xiong, Boli
+AU  - Kuang, Gangyao
+Y1  - 2017/08/03
+PY  - 2017
+DA  - 2017/08/03
+N1  - doi: 10.1080/2150704X.2017.1327124
+DO  - 10.1080/2150704X.2017.1327124
+T2  - Remote Sensing Letters
+JF  - Remote Sensing Letters
+JO  - Remote Sensing Letters
+SP  - 791
+EP  - 800
+VL  - 8
+IS  - 8
+PB  - Taylor & Francis
+AB  - ABSTRACTOcean surveillance is an important application of synthetic aperture radar (SAR) image interpretation. In the ocean, the ship target usually attracts the attention of researchers, hence many interpretation works focus on it. The precise ship segmentation can facilitate further processing, such as feature extraction and target recognition. This paper proposes a refined segmentation method for ship target, in which the ratio of exponentially weighted averages (ROEWA) operator is used to produce the edge map and the elliptical constraint (EC) is incorporated into the energy function of the gradient vector flow (GVF) snake model to extract the ship target precisely. With this prior shape constraint, the snake contour can overcome unexpected distortions stemming from speckle noise and side lobe effect, etc. experimental results based on TerraSAR X-band and RADARSAT-2 C-band data illustrate the effective performance of the proposed method on refined segmentation for ship targets.
+SN  - 2150-704X
+M3  - doi: 10.1080/2150704X.2017.1327124
+UR  - https://doi.org/10.1080/2150704X.2017.1327124
+ER  - 
+0
+

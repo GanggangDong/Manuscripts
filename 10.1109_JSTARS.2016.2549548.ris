@@ -1,0 +1,65 @@
+TY  - JOUR
+TI  - Superresolution Downward-Looking Linear Array Three-Dimensional SAR Imaging Based on Two-Dimensional Compressive Sensing
+T2  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+SP  - 2184
+EP  - 2196
+AU  - S. Zhang
+AU  - G. Dong
+AU  - G. Kuang
+PY  - 2016
+KW  - compressed sensing
+KW  - geophysical image processing
+KW  - geophysical techniques
+KW  - image reconstruction
+KW  - image resolution
+KW  - matrix algebra
+KW  - radar imaging
+KW  - sampling methods
+KW  - synthetic aperture radar
+KW  - 1-D compressive sensing
+KW  - 1-D vector sparse reconstruction
+KW  - 2-D azimuth-cross-track plane
+KW  - 2-D compressive sensing
+KW  - 2-D matrix signal
+KW  - 2-D sparse signal reconstruction
+KW  - 3-D imaging algorithm
+KW  - Cramer-Rao bound
+KW  - azimuth resolution
+KW  - cross-track resolution
+KW  - data acquisition storage
+KW  - data processing
+KW  - downward-looking linear array 3-D SAR
+KW  - downward-looking linear array 3-D synthetic aperture radar
+KW  - joint sparse sampling strategy
+KW  - linear array
+KW  - principle prototype experiment
+KW  - sparse reconstruction
+KW  - superresolution downward-looking linear array three-dimensional SAR imaging
+KW  - superresolution performance
+KW  - superresolution reconstruction algorithm
+KW  - synthetic aperture length limitation
+KW  - two-dimensional compressive sensing
+KW  - Azimuth
+KW  - Image reconstruction
+KW  - Image resolution
+KW  - Imaging
+KW  - Signal resolution
+KW  - Sparse matrices
+KW  - Synthetic aperture radar
+KW  - Compressive sensing (CS)
+KW  - joint sparse sampling
+KW  - superresolution
+KW  - three-dimensional synthetic aperture radar (SAR)
+KW  - two-dimensional spectral estimation
+DO  - 10.1109/JSTARS.2016.2549548
+JO  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+IS  - 6
+SN  - 1939-1404
+VO  - 9
+VL  - 9
+JA  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+Y1  - June 2016
+AB  - For downward-looking linear array 3-D synthetic aperture radar (SAR), the azimuth and cross-track resolution are unacceptable due to the length limitation of synthetic aperture and linear array. Hence, superresolution reconstruction algorithms are desired. Since the signal to be reconstructed is sparse on the 2-D azimuth-cross-track plane, it is quite suitable to apply the compressive sensing theory to obtain the images. The existed imaging algorithms for downward-looking linear array 3-D SAR are based on 1-D compressive sensing, which could bring the couple effect between different directions. To solve this problem, a novel 3-D imaging algorithm based on 2-D compressive sensing is proposed in this paper. Instead of converting the sparse reconstruction of 2-D matrix signals to the sparse reconstruction of 1-D vectors, the proposed algorithm directly reconstructs the 2-D sparse signals on overcomplete dictionaries with separable atoms. It not only provides superresolution performance, but also reduces the storage of data acquisition and processing. Furthermore, a definition of joint sparse sampling strategy is given to reconstruct the measurement matrices for further improving the computational efficiency of the imaging algorithm. Moreover, in order to investigate the limits of the proposed algorithm, the theory analysis of Crame&#x0301;r-Rao bound is derived and compared with the standard deviation. Finally, numerical simulations under the noise scenarios and the principle prototype experiment on real data are shown to demonstrate the validity and the limits of the proposed algorithm.
+ER  - 
+
+

@@ -1,0 +1,52 @@
+TY  - JOUR
+TI  - Truncated SVD-Based Compressive Sensing for Downward-Looking Three-Dimensional SAR Imaging With Uniform/Nonuniform Linear Array
+T2  - IEEE Geoscience and Remote Sensing Letters
+SP  - 1853
+EP  - 1857
+AU  - S. Zhang
+AU  - Y. Zhu
+AU  - G. Dong
+AU  - G. Kuang
+PY  - 2015
+KW  - compressed sensing
+KW  - image processing
+KW  - remote sensing by radar
+KW  - synthetic aperture radar
+KW  - 3D downward-looking linear array SAR imaging
+KW  - 3D synthetic aperture radar
+KW  - compressive sensing algorithm
+KW  - cross-track signal
+KW  - data acquisition
+KW  - data processing
+KW  - imaging processing
+KW  - reduced-redundancy spatial measurement matrix
+KW  - scene reconstruction quality
+KW  - sparse nonuniform linear array
+KW  - superresolution properties
+KW  - superresolution reconstruction algorithm
+KW  - truncated SVD-based compressive sensing
+KW  - truncated singular value decomposition
+KW  - uniform-nonuniform linear array
+KW  - Arrays
+KW  - Image reconstruction
+KW  - Imaging
+KW  - Signal resolution
+KW  - Spatial resolution
+KW  - Synthetic aperture radar
+KW  - 3-D synthetic aperture radar (SAR)
+KW  - Compressive sensing (CS)
+KW  - nonuniform linear array (LA)
+KW  - superresolution
+KW  - truncated singular value decomposition (TSVD)
+DO  - 10.1109/LGRS.2015.2431254
+JO  - IEEE Geoscience and Remote Sensing Letters
+IS  - 9
+SN  - 1545-598X
+VO  - 12
+VL  - 12
+JA  - IEEE Geoscience and Remote Sensing Letters
+Y1  - Sept. 2015
+AB  - For downward-looking linear array 3-D synthetic aperture radar, the resolution in cross-track direction is much lower than the ones in range and azimuth. Hence, superresolution reconstruction algorithms are desired. Since the cross-track signal to be reconstructed is sparse in the object domain, compressive sensing algorithm has been used. However, the imaging processing on the 3-D scene brings large computational loads, which renders challenges in both data acquisition and processing. To cover this shortage, truncated singular value decomposition is utilized to reconstruct a reduced-redundancy spatial measurement matrix. The proposed algorithm provides advantages in terms of computational time while maintaining the quality of the scene reconstructions. Moreover, our results on uniform linear array are generally applicable to sparse nonuniform linear array. Superresolution properties and reconstruction accuracies are demonstrated using simulations under the noise and clutter scenarios.
+ER  - 
+
+

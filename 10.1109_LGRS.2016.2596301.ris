@@ -1,0 +1,46 @@
+TY  - JOUR
+TI  - A Soft Decision Rule for Sparse Signal Modeling via Dempster&#x2013;Shafer Evidential Reasoning
+T2  - IEEE Geoscience and Remote Sensing Letters
+SP  - 1567
+EP  - 1571
+AU  - G. Dong
+AU  - G. Kuang
+PY  - 2016
+KW  - Bayes methods
+KW  - geophysical signal processing
+KW  - object recognition
+KW  - remote sensing by radar
+KW  - signal representation
+KW  - synthetic aperture radar
+KW  - Bayesian estimation
+KW  - Dempster-Shafer evidential reasoning
+KW  - classwise ambiguity
+KW  - samplewise ambiguity
+KW  - soft decision rule
+KW  - sparse representation coefficient
+KW  - sparse signal modeling
+KW  - synthetic aperture radar target recognition
+KW  - Cognition
+KW  - Image reconstruction
+KW  - Measurement uncertainty
+KW  - Synthetic aperture radar
+KW  - Target recognition
+KW  - Training
+KW  - Uncertainty
+KW  - Classification
+KW  - Dempster&#8211;Shafer theory of evidence (DS)
+KW  - soft decision
+KW  - sparse representation
+KW  - synthetic aperture radar (SAR) target recognition
+DO  - 10.1109/LGRS.2016.2596301
+JO  - IEEE Geoscience and Remote Sensing Letters
+IS  - 10
+SN  - 1545-598X
+VO  - 13
+VL  - 13
+JA  - IEEE Geoscience and Remote Sensing Letters
+Y1  - Oct. 2016
+AB  - Recently, the problem of recovering sparse linear representation of a query in terms of a redundant dictionary has received great interest. The query sample is represented as a linear combination of the atoms of the dictionary. The unique representation is obtained via sparsity constraint, and the decision is made in terms of the characteristics of representation on reconstruction. The decision rule for sparse signal modeling can be viewed as a typical application of Bayesian estimation, where the likelihood function is inversely proportional to the reconstruction error. Different from the conventional rule, where the decision is directly made according to the overall reconstruction error associated with each class, this letter proposes a soft decision via Dempster-Shafer theory of evidence. To model the imprecision on uncertainty measurement, we introduce the samplewise ambiguity and the classwise ambiguity during the quantification of probability mass. Each sample that participates in the recovery of the query is considered as an item of evidence that supports certain hypothesis in regard to the class membership of query. The amount of evidence is quantified by a function of the distance between the query and the weighted training sample, where the weights result from the sparse representation coefficient. Then, various pieces of evidence derived from the candidate samples are pooled by means of Dempster's rule of combination, from which a soft decision can be reached.
+ER  - 
+
+

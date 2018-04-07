@@ -1,0 +1,52 @@
+TY  - JOUR
+TI  - Sparsity and Low-Rank Dictionary Learning for Sparse Representation of Monogenic Signal
+T2  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+SP  - 141
+EP  - 153
+AU  - G. Dong
+AU  - N. Wang
+AU  - G. Kuang
+AU  - H. Qiu
+PY  - 2018
+KW  - feature extraction
+KW  - image classification
+KW  - image reconstruction
+KW  - image representation
+KW  - learning (artificial intelligence)
+KW  - radar imaging
+KW  - synthetic aperture radar
+KW  - SAR image
+KW  - discriminative dictionary
+KW  - global learning
+KW  - local learning
+KW  - low-rank dictionary learning
+KW  - monogenic signal
+KW  - single dictionary
+KW  - sparse representation
+KW  - target classification
+KW  - target recognition
+KW  - universal dictionary
+KW  - Dictionaries
+KW  - Image reconstruction
+KW  - Machine learning
+KW  - Scattering
+KW  - Synthetic aperture radar
+KW  - Target recognition
+KW  - Training
+KW  - Dictionary learning
+KW  - SAR
+KW  - low rank
+KW  - sparse representation
+KW  - target recognition
+DO  - 10.1109/JSTARS.2017.2754553
+JO  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+IS  - 1
+SN  - 1939-1404
+VO  - 11
+VL  - 11
+JA  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+Y1  - Jan. 2018
+AB  - This paper proposes a new framework of dictionary learning for a recently developed study, sparse representation of monogenic signal. The proposed framework is applied to target recognition in SAR image. Unlike the preceding works, where the sparse model is formed via an overcomplete dictionary whose atoms are the training samples themselves, a new approach to learn a more discriminative dictionary is proposed. To achieve target classification, two specific implementation schemes, global learning, and local learning, are developed. The global learning generates a single, universal dictionary for all target class. Since the class membership committed to each atom (element) is lost, the reconstruction error committed to each class is incapable to be computed. The conventional decision rule by the minimal residual could not be applied any more. Hence, this paper develops two decision rules for global learning. The first resorts to a third-party classifier, while the other recommends a nonparametric criterion. Different from the global learning, the local learning learns a subdictionary for each target class. These subdictionaries are concatenated to form a global one. Each subdictionary has been learned within certain target class, the generated atoms can be therefore labeled. The identification is predicted by evaluating which class of atom could produce the minimal reconstruction error. The effectiveness of proposed scheme is verified with multiple comparative studies.
+ER  - 
+
+

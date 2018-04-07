@@ -1,0 +1,37 @@
+TY  - CONF
+TI  - Compressive sensing algorithm for downward-looking sparse array 3-D SAR imaging
+T2  - IET International Radar Conference 2015
+SP  - 1
+EP  - 5
+AU  - S. Zhang
+AU  - G. Kuang
+AU  - Y. Zhu
+AU  - G. Dong
+PY  - 2015
+KW  - MIMO radar
+KW  - compressed sensing
+KW  - radar imaging
+KW  - synthetic aperture radar
+KW  - MIMO sparse array
+KW  - antenna elements
+KW  - compressive sensing algorithm
+KW  - cross-track direction
+KW  - downward-looking sparse array 3-D SAR imaging
+KW  - representative distributions
+KW  - Compressive sensing
+KW  - Multiple-input-multiple-output
+KW  - Sparse array
+KW  - T/R
+KW  - Three-dimensional SAR
+DO  - 10.1049/cp.2015.1197
+JO  - IET International Radar Conference 2015
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IET International Radar Conference 2015
+Y1  - 14-16 Oct. 2015
+AB  - Sparse array can avoid unwanted grating lobes and take full advantage of the wingspan space, which is widely applied in downward-looking 3-D SAR. In the paper, a 3D imaging strategy based on compressive sensing theory is proposed for downward-looking sparse array SAR imaging, which can improve the performance in cross-track direction. T/R sparse array and MIMO sparse array, as the representative distributions of the sparse array, are discussed in the paper. Compared with T/R sparse array, MIMO sparse array can achieve high imaging performance with less real antenna elements. Simulation results indicate that the proposed algorithm can provide high quality imagery compared to the conventional method.
+ER  - 
+
+

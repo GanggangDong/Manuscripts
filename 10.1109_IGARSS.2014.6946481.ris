@@ -1,0 +1,50 @@
+TY  - CONF
+TI  - Joint sparse representation of monogenic components: With application to automatic target recognition in SAR imagery
+T2  - 2014 IEEE Geoscience and Remote Sensing Symposium
+SP  - 549
+EP  - 552
+AU  - G. Dong
+AU  - G. Kuang
+AU  - L. Zhao
+AU  - J. Lu
+AU  - M. Lu
+PY  - 2014
+KW  - image classification
+KW  - image representation
+KW  - object detection
+KW  - radar imaging
+KW  - synthetic aperture radar
+KW  - MSTAR database
+KW  - SAR imagery
+KW  - augmented feature vectors
+KW  - automatic target recognition
+KW  - data dimension
+KW  - data redundancy
+KW  - instantaneous phase
+KW  - joint sparse representation
+KW  - monogenic signal classification
+KW  - sparse representation-based classification
+KW  - uniform downampling
+KW  - Accuracy
+KW  - Joints
+KW  - Support vector machines
+KW  - Synthetic aperture radar
+KW  - Target recognition
+KW  - Training
+KW  - Vectors
+KW  - Joint sparse representation
+KW  - classification
+KW  - synthetic aperture radar
+KW  - target recognition
+DO  - 10.1109/IGARSS.2014.6946481
+JO  - 2014 IEEE Geoscience and Remote Sensing Symposium
+IS  - 
+SN  - 2153-6996
+VO  - 
+VL  - 
+JA  - 2014 IEEE Geoscience and Remote Sensing Symposium
+Y1  - 13-18 July 2014
+AB  - In this paper, classification via joint sparse representation of the monogenic signal is presented for target recognition in SAR imagery. First, the monogenic signal is performed to capture the characteristics of SAR image. Since it is infeasible to directly apply the raw component to classification due to the high data dimension and redundancy, three augmented feature vectors are defined via uniform downampling of the real part, the imagery part, and the instantaneous phase. The monogenic features are then fed into a recently developed framework, sparse representation-based classification (SRC). Rather than produce individual sparse pattern, this paper generates the similar sparsity pattern for three feature vectors by imposing a mixed norm on the representation matrix. Extensive experiments on MSTAR database demonstrate that the proposed method could significantly improve the recognition accuracy.
+ER  - 
+
+

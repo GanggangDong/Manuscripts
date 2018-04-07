@@ -1,0 +1,49 @@
+TY  - JOUR
+TI  - Sparse Representation of Monogenic Signal: With Application to Target Recognition in SAR Images
+T2  - IEEE Signal Processing Letters
+SP  - 952
+EP  - 956
+AU  - G. Dong
+AU  - N. Wang
+AU  - G. Kuang
+PY  - 2014
+KW  - minimisation
+KW  - radar imaging
+KW  - signal representation
+KW  - synthetic aperture radar
+KW  - SAR images
+KW  - augmented monogenic feature vector
+KW  - broad spectral information
+KW  - feature vectors
+KW  - minimization
+KW  - monogenic components
+KW  - monogenic signal
+KW  - sparse linear combination
+KW  - sparse representation
+KW  - synthetic aperture radar
+KW  - target recognition
+KW  - uniform down-sampling
+KW  - Manifolds
+KW  - Noise
+KW  - Synthetic aperture radar
+KW  - Target recognition
+KW  - Testing
+KW  - Training
+KW  - Vectors
+KW  - Classification
+KW  - monogenic signal
+KW  - sparse representation
+KW  - synthetic aperture radar
+KW  - target recognition
+DO  - 10.1109/LSP.2014.2321565
+JO  - IEEE Signal Processing Letters
+IS  - 8
+SN  - 1070-9908
+VO  - 21
+VL  - 21
+JA  - IEEE Signal Processing Letters
+Y1  - Aug. 2014
+AB  - In this letter, the classification via sparse representation of the monogenic signal is presented for target recognition in SAR images. To characterize SAR images, which have broad spectral information yet spatial localization, the monogenic signal is performed. Then an augmented monogenic feature vector is generated via uniform down-sampling, normalization and concatenation of the monogenic components. The resulting feature vector is fed into a recently developed framework, i.e., sparse representation based classification (SRC). Specifically, the feature vectors of the training samples are utilized as the basis vectors to code the feature vector of the test sample as a sparse linear combination of them. The representation is obtained via l<sub>1</sub>-norm minimization, and the inference is reached according to the characteristics of the representation on reconstruction. Extensive experiments on MSTAR database demonstrate that the proposed method is robust towards noise corruption, as well as configuration and depression variations.
+ER  - 
+
+

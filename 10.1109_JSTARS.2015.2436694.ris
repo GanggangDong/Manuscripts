@@ -1,0 +1,53 @@
+TY  - JOUR
+TI  - SAR Target Recognition via Joint Sparse Representation of Monogenic Signal
+T2  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+SP  - 3316
+EP  - 3328
+AU  - G. Dong
+AU  - G. Kuang
+AU  - N. Wang
+AU  - L. Zhao
+AU  - J. Lu
+PY  - 2015
+KW  - image recognition
+KW  - learning (artificial intelligence)
+KW  - radar computing
+KW  - radar imaging
+KW  - radar target recognition
+KW  - synthetic aperture radar
+KW  - SAR target recognition
+KW  - component specific feature descriptor
+KW  - feature descriptors
+KW  - joint sparse representation
+KW  - local amplitude
+KW  - local orientation
+KW  - local phase
+KW  - monogenic signal
+KW  - multiple tasks intercorrelation
+KW  - multitask learning
+KW  - sparse representation model
+KW  - Dictionaries
+KW  - Joints
+KW  - Linear regression
+KW  - Synthetic aperture radar
+KW  - Target recognition
+KW  - Training
+KW  - Transforms
+KW  - Convex optimization
+KW  - SAR target recognition
+KW  - joint covariate selection
+KW  - multitask learning
+KW  - sparse representation
+KW  - the monogenic signal
+DO  - 10.1109/JSTARS.2015.2436694
+JO  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+IS  - 7
+SN  - 1939-1404
+VO  - 8
+VL  - 8
+JA  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+Y1  - July 2015
+AB  - In this paper, the classification via sprepresentation and multitask learning is presented for target recognition in SAR image. To capture the characteristics of SAR image, a multidimensional generalization of the analytic signal, namely the monogenic signal, is employed. The original signal can be then orthogonally decomposed into three components: 1) local amplitude; 2) local phase; and 3) local orientation. Since the components represent the different kinds of information, it is beneficial by jointly considering them in a unifying framework. However, these components are infeasible to be directly utilized due to the high dimension and redundancy. To solve the problem, an intuitive idea is to define an augmented feature vector by concatenating the components. This strategy usually produces some information loss. To cover the shortage, this paper considers three components into different learning tasks, in which some common information can be shared. Specifically, the component-specific feature descriptor for each monogenic component is produced first. Inspired by the recent success of multitask learning, the resulting features are then fed into a joint sparse representation model to exploit the intercorrelation among multiple tasks. The inference is reached in terms of the total reconstruction error accumulated from all tasks. The novelty of this paper includes 1) the development of three component-specific feature descriptors; 2) the introduction of multitask learning into sparse representation model; 3) the numerical implementation of proposed method; and 4) extensive comparative experimental studies on MSTAR SAR dataset, including target recognition under standard operating conditions, as well as extended operating conditions, and the capability of outliers rejection.
+ER  - 
+
+

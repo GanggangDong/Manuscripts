@@ -1,0 +1,21 @@
+TY  - EJOU
+AU  - Yu, Meiting
+AU  - Dong, Ganggang
+AU  - Fan, Haiyan
+AU  - Kuang, Gangyao
+TI  - SAR Target Recognition via Local Sparse Representation of Multi-Manifold Regularized Low-Rank Approximation
+T2  - Remote Sensing
+
+PY  - 2018
+VL  - 10
+IS  - 2
+SN  - 2072-4292
+
+AB  - The extraction of a valuable set of features and the design of a discriminative classifier are crucial for target recognition in SAR image. Although various features and classifiers have been proposed over the years, target recognition under extended operating conditions (EOCs) is still a challenging problem, e.g., target with configuration variation, different capture orientations, and articulation. To address these problems, this paper presents a new strategy for target recognition. We first propose a low-dimensional representation model via incorporating multi-manifold regularization term into the low-rank matrix factorization framework. Two rules, pairwise similarity and local linearity, are employed for constructing multiple manifold regularization. By alternately optimizing the matrix factorization and manifold selection, the feature representation model can not only acquire the optimal low-rank approximation of original samples, but also capture the intrinsic manifold structure information. Then, to take full advantage of the local structure property of features and further improve the discriminative ability, local sparse representation is proposed for classification. Finally, extensive experiments on moving and stationary target acquisition and recognition (MSTAR) database demonstrate the effectiveness of the proposed strategy, including target recognition under EOCs, as well as the capability of small training size.
+KW  - synthetic aperture radar
+KW  - target recognition
+KW  - sparse representation
+KW  - locality constraint
+KW  - low-rank approximation
+KW  - regularized manifold
+DO  - 10.3390/rs10020211

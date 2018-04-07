@@ -1,0 +1,47 @@
+TY  - CONF
+TI  - SAR image segmentation combining the PM diffusion model and MRF model
+T2  - 2012 IEEE International Geoscience and Remote Sensing Symposium
+SP  - 4307
+EP  - 4310
+AU  - G. Dong
+AU  - N. Wang
+AU  - C. Hu
+AU  - Y. Jiang
+PY  - 2012
+KW  - Markov processes
+KW  - image segmentation
+KW  - radar imaging
+KW  - synthetic aperture radar
+KW  - MRF model
+KW  - Markov random field model
+KW  - Perona Malik nonlinear diffusion model
+KW  - SAR image segmentation
+KW  - intensity information
+KW  - label configuration
+KW  - modified PM nonlinear diffusion model
+KW  - normal direction
+KW  - statistical segmentation
+KW  - synthetic aperture radar image
+KW  - tangent direction
+KW  - Computational modeling
+KW  - Image segmentation
+KW  - Information filters
+KW  - Noise
+KW  - Speckle
+KW  - Synthetic aperture radar
+KW  - MRF
+KW  - PM
+KW  - SAR
+KW  - image segmentation
+DO  - 10.1109/IGARSS.2012.6351715
+JO  - 2012 IEEE International Geoscience and Remote Sensing Symposium
+IS  - 
+SN  - 2153-6996
+VO  - 
+VL  - 
+JA  - 2012 IEEE International Geoscience and Remote Sensing Symposium
+Y1  - 22-27 July 2012
+AB  - This paper addresses the statistical segmentation of SAR (Synthetic Aperture Radar) image combining PM (Perona Malik) nonlinear diffusion model and MRF (Markov Random Field) model. First, the original SAR image is filtered using the modified PM nonlinear diffusion model, in which the diffusion coefficients along the tangent direction and the normal direction are approximated and simplified. Afterwards, the filtered image is segmented using MRF model, in which the clique potential is computed using both the label configuration and the intensity information. The proposed method is marked by PM-MRF for short. Experimental results show that PM-MRF competes favorably with the traditional one to segment SAR image homogeneously.
+ER  - 
+
+

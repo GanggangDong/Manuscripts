@@ -1,0 +1,60 @@
+TY  - JOUR
+TI  - Classification on the Monogenic Scale Space: Application to Target Recognition in SAR Image
+T2  - IEEE Transactions on Image Processing
+SP  - 2527
+EP  - 2539
+AU  - G. Dong
+AU  - G. Kuang
+PY  - 2015
+KW  - image classification
+KW  - image fusion
+KW  - image representation
+KW  - image sampling
+KW  - radar imaging
+KW  - support vector machines
+KW  - synthetic aperture radar
+KW  - SAR imaging
+KW  - SRC
+KW  - composite kernel learning version
+KW  - depression angle variation
+KW  - kernel combination
+KW  - kernel linear representation
+KW  - linear support vector machine
+KW  - monogenic scale space classification
+KW  - monogenic signal theory
+KW  - moving and stationary target acquiration and recognition database
+KW  - multidimensional analytic signal generalization
+KW  - random noise corruption
+KW  - score-level fusion development
+KW  - sparse representation
+KW  - sparse representation-based classification
+KW  - spatial localization
+KW  - spectral information
+KW  - structural modification
+KW  - synthetic aperture radar
+KW  - target recognition application
+KW  - Encoding
+KW  - Hilbert space
+KW  - Kernel
+KW  - Synthetic aperture radar
+KW  - Target recognition
+KW  - Training
+KW  - Transforms
+KW  - SAR target recognition
+KW  - The monogenic signal
+KW  - composite kernel learning
+KW  - monogenic scale-space
+KW  - score-level fusion
+KW  - sparse representation
+DO  - 10.1109/TIP.2015.2421440
+JO  - IEEE Transactions on Image Processing
+IS  - 8
+SN  - 1057-7149
+VO  - 24
+VL  - 24
+JA  - IEEE Transactions on Image Processing
+Y1  - Aug. 2015
+AB  - This paper introduces a novel classification strategy based on the monogenic scale space for target recognition in Synthetic Aperture Radar (SAR) image. The proposed method exploits monogenic signal theory, a multidimensional generalization of the analytic signal, to capture the characteristics of SAR image, e.g., broad spectral information and simultaneous spatial localization. The components derived from the monogenic signal at different scales are then applied into a recently developed framework, sparse representation-based classification (SRC). Moreover, to deal with the data set, whose target classes are not linearly separable, the classification via kernel combination is proposed, where the multiple components of the monogenic signal are jointly considered into a unifying framework for target recognition. The novelty of this paper comes from: the development of monogenic feature via uniformly downsampling, normalization, and concatenation of the components at various scales; the development of score-level fusion for SRCs; and the development of composite kernel learning for classification. In particular, the comparative experimental studies under nonliteral operating conditions, e.g., structural modifications, random noise corruption, and variations in depression angle, are performed. The comparative experimental studies of various algorithms, including the linear support vector machine and the kernel version, the SRC and the variants, kernel SRC, kernel linear representation, and sparse representation of monogenic signal, are performed too. The feasibility of the proposed method has been successfully verified using Moving and Stationary Target Acquiration and Recognition database. The experimental results demonstrate that significant improvement for recognition accuracy can be achieved by the proposed method in comparison with the baseline algorithms.
+ER  - 
+
+

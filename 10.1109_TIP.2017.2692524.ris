@@ -1,0 +1,58 @@
+TY  - JOUR
+TI  - Classification via Sparse Representation of Steerable Wavelet Frames on Grassmann Manifold: Application to Target Recognition in SAR Image
+T2  - IEEE Transactions on Image Processing
+SP  - 2892
+EP  - 2904
+AU  - G. Dong
+AU  - G. Kuang
+AU  - N. Wang
+AU  - W. Wang
+PY  - 2017
+KW  - Hilbert spaces
+KW  - image classification
+KW  - image representation
+KW  - learning (artificial intelligence)
+KW  - radar computing
+KW  - radar imaging
+KW  - radar target recognition
+KW  - synthetic aperture radar
+KW  - wavelet transforms
+KW  - Grassmann kernel function
+KW  - Grassmann manifold
+KW  - Grassmann metric
+KW  - RKHS
+KW  - Riesz transform
+KW  - SAR image classification
+KW  - global kernel function
+KW  - implicit reproducing kernel Hilbert space
+KW  - kernel sparse learning
+KW  - overcomplete dictionary
+KW  - sparse representation model
+KW  - steerable wavelet frames
+KW  - target classification
+KW  - target recognition
+KW  - training sample mapping
+KW  - Kernel
+KW  - Manifolds
+KW  - Synthetic aperture radar
+KW  - Target recognition
+KW  - Training
+KW  - Wavelet transforms
+KW  - Grassmann manifold
+KW  - Hilbert space
+KW  - Riesz transform
+KW  - SAR
+KW  - sparse representation
+KW  - steerable wavelet
+KW  - target recognition
+DO  - 10.1109/TIP.2017.2692524
+JO  - IEEE Transactions on Image Processing
+IS  - 6
+SN  - 1057-7149
+VO  - 26
+VL  - 26
+JA  - IEEE Transactions on Image Processing
+Y1  - June 2017
+ER  - 
+
+

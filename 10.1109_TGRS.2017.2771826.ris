@@ -1,0 +1,33 @@
+TY  - JOUR
+TI  - Matrix Completion for Downward-Looking 3-D SAR Imaging With a Random Sparse Linear Array
+T2  - IEEE Transactions on Geoscience and Remote Sensing
+SP  - 1994
+EP  - 2006
+AU  - S. Zhang
+AU  - G. Dong
+AU  - G. Kuang
+PY  - 2018
+KW  - Arrays
+KW  - Image resolution
+KW  - Imaging
+KW  - Linear antenna arrays
+KW  - Radar imaging
+KW  - Sparse matrices
+KW  - Synthetic aperture radar
+KW  - 3-D imaging
+KW  - data recovery
+KW  - matrix completion (MC)
+KW  - synthetic aperture radar (SAR)
+KW  - under-sampled data
+DO  - 10.1109/TGRS.2017.2771826
+JO  - IEEE Transactions on Geoscience and Remote Sensing
+IS  - 4
+SN  - 0196-2892
+VO  - 56
+VL  - 56
+JA  - IEEE Transactions on Geoscience and Remote Sensing
+Y1  - April 2018
+AB  - Downward-looking linear array 3-D synthetic aperture radar (SAR) has attracted increasing attention in the field of radar imaging. As widely reported, the volume of data can be significantly reduced by a random sparse linear array. However, the 2-D under-sampled azimuth-cross-track data brought by the sparse linear array will produce high-level side-lobes, as well as the aliasing and the false-alarm targets. To deal with those problems, this paper introduces a recently developed theory, matrix completion (MC). The new theory could recover a matrix with a small subset of known elements of the matrix. It is founded on the assumption that the matrix is essentially low rank. For downward-looking 3-D SAR with a random sparse linear array, the received 3-D data can be treated as a series of uncorrelated 2-D matrices by the separated channel process. First, range compression can be realized by means of pulse compression. Then, the sets of the 2-D under-sampled azimuth-cross-track matrix can be completed into a full-sampled one via MC trick. The resulting 3-D images can be focused by synthetic aperture technique along the azimuth direction and beamforming operation along the cross-track direction, with the recovered full-sampled matrix. The proposed algorithm achieves high resolution and low-level side-lobes with the acceptable computational cost and memory consumption. It is verified by several numerical simulations and multiple comparative studies on real data. The experimental results clearly demonstrate the imaging performance across different under-sampling rates and signal-noise rates.
+ER  - 
+
+

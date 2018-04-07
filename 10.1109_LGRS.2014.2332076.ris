@@ -1,0 +1,48 @@
+TY  - JOUR
+TI  - Target Recognition in SAR Images via Classification on Riemannian Manifolds
+T2  - IEEE Geoscience and Remote Sensing Letters
+SP  - 199
+EP  - 203
+AU  - G. Dong
+AU  - G. Kuang
+PY  - 2015
+KW  - Hilbert spaces
+KW  - covariance matrices
+KW  - geophysical image processing
+KW  - image classification
+KW  - image representation
+KW  - least squares approximations
+KW  - remote sensing by radar
+KW  - synthetic aperture radar
+KW  - Riemannian manifolds
+KW  - SAR images
+KW  - covariance matrix
+KW  - kernel Hilbert space
+KW  - least square fitting technique
+KW  - sparse representation-based classification
+KW  - synthetic aperture radar
+KW  - target recognition
+KW  - Covariance matrices
+KW  - Manifolds
+KW  - Measurement
+KW  - Synthetic aperture radar
+KW  - Target recognition
+KW  - Training
+KW  - Vectors
+KW  - Monogenic signal
+KW  - Riemannian manifolds
+KW  - sparse representation
+KW  - synthetic aperture radar (SAR)
+KW  - target recognition
+DO  - 10.1109/LGRS.2014.2332076
+JO  - IEEE Geoscience and Remote Sensing Letters
+IS  - 1
+SN  - 1545-598X
+VO  - 12
+VL  - 12
+JA  - IEEE Geoscience and Remote Sensing Letters
+Y1  - Jan. 2015
+AB  - In this letter, synthetic aperture radar (SAR) target recognition via classification on Riemannian geometry is presented. To characterize SAR images, which have broad spectral information yet spatial localization, a 2-D analytic signal, i.e., the monogenic signal, is used. Then, the monogenic components are combined by computing a covariance matrix whose entries are the correlation of the components. Since the covariance matrix, a symmetric positive definite one, lies on the Riemannian manifold, it is unreasonable to be dealt with by the standard learning techniques. To address the problem, two classification schemes are proposed. The first maps the covariance matrix into the vector space and feeds the resulting descriptor into a recently developed framework, i.e., sparse representation-based classification. The other embeds the Riemannian manifold into an implicit reproducing kernel Hilbert space, followed by least square fitting technique to recover the test. The inference is reached by evaluating which class of samples could reconstruct the test as accurately as possible.
+ER  - 
+
+

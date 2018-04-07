@@ -1,0 +1,51 @@
+TY  - CONF
+TI  - Nonnegative and local linear regression for classification in SAR imagery
+T2  - 2014 IEEE Geoscience and Remote Sensing Symposium
+SP  - 1702
+EP  - 1705
+AU  - G. Dong
+AU  - G. Kuang
+AU  - L. Zhao
+AU  - J. Lu
+AU  - M. Lu
+PY  - 2014
+KW  - geophysical image processing
+KW  - geophysical techniques
+KW  - image classification
+KW  - pattern recognition
+KW  - remote sensing by radar
+KW  - synthetic aperture radar
+KW  - MSTAR database
+KW  - SAR image-based target recognition
+KW  - SAR imagery classification
+KW  - class-specific galleries
+KW  - least-square strategy
+KW  - linear subspace
+KW  - local linear regression model
+KW  - nonnegative linear regression
+KW  - pattern recognition
+KW  - single-object class
+KW  - Accuracy
+KW  - Image reconstruction
+KW  - Inverse problems
+KW  - Linear regression
+KW  - Support vector machines
+KW  - Synthetic aperture radar
+KW  - Target recognition
+KW  - Linear regression
+KW  - SAR
+KW  - classification
+KW  - nonnegative
+KW  - target recognition
+DO  - 10.1109/IGARSS.2014.6946778
+JO  - 2014 IEEE Geoscience and Remote Sensing Symposium
+IS  - 
+SN  - 2153-6996
+VO  - 
+VL  - 
+JA  - 2014 IEEE Geoscience and Remote Sensing Symposium
+Y1  - 13-18 July 2014
+AB  - In this paper, the classification via nonnegative and local linear regression model is proposed for SAR image-based target recognition. Recently, a simple yet effective method, linear regression for pattern recognition has been presented. By assuming that images from a single-object class lie on a linear subspace, it represents the test image as a linear combination of class-specific galleries. The representation is obtained by solving a typical inverse problem with least-square strategy. Since the negative weights play a counteractive role in reconstruction, it may be unreasonable to generate the negative weights. In addition, those elements close to the test sample should contribute much more than the ones far from the test. Thus this paper limits the feasible set of the representation by nonnegative and locality constraint. The decision is ruled in favor of the class with the minimum reconstruction error. Extensive experiments on MSTAR database demonstrate that the proposed methods significantly improve the accuracy than the standard one.
+ER  - 
+
+
